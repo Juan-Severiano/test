@@ -2,22 +2,6 @@
 
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    <style>
-        .status-git {
-            display: flex;
-            align-items: center;
-            margin: 0 auto;
-        }
-        .ferramentas {
-            display: inline_block; 
-            align-items: center;
-        }
-        .ferramentas img {
-            align-items: center;
-            height: 40;
-            width: 50;
-        }
-    </style>
 </head>
 <body>
     <div class="status-git">
