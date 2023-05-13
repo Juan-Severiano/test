@@ -42,5 +42,4 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
     </div>
 </body>
-![Snake animation]
-(https://github.com/Juan-Severiano/Juan-Severiano/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Juan-Severiano/Juan-Severiano/blob/output/github-contribution-grid-snake.svg)
