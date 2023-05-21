@@ -3,7 +3,7 @@
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
-<body>
+<body align="center">
     <div class="status-git" aling="center">
         <a href="https://github.com/Juan-Severiano">
             <img height="180em"
