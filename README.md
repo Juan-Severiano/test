@@ -14,7 +14,7 @@
     </div>
     <div class="ferramentas" aling="center"> 
         <br>
-        <img aling="center" alt="Juan" height="40" width="50"
+        <img aling="center" alt="Juan-HTML" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
         <img aling="center" alt="Juan" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
