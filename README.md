@@ -4,7 +4,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
 <body align="center">
-    <div aling="center">
+    <div align="center">
         <a href="https://github.com/Juan-Severiano">
             <img height="180em"
                 src="https://github-readme-stats.vercel.app/api?username=Juan-Severiano&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
