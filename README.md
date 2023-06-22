@@ -7,7 +7,7 @@
     <div align="center">
         <a href="https://github.com/Juan-Severiano">
             <img height="180em"
-                src="https://github-readme-stats.vercel.app/api?username=Juan-Severiano&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+                src="https://github-readme-stats.vercel.app/api?username=Juan-Severiano&show_icons=true&theme=dark&include_all_commits=true&count_private=false" />
             <img height="180em"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Severiano&layout=compact&langs_count=7&theme=dark" />
             <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
