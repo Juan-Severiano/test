@@ -12,7 +12,7 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Severiano&layout=compact&langs_count=7&theme=dark" />
             <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
     </div>
-    <div class="ferramentas" aling="center"> 
+    <div class="ferramentas" align="center"> 
         <br>
         <img aling="center" alt="Juan-HTML" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
