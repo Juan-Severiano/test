@@ -30,15 +30,15 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
         <img aling="center" alt="Juan github" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-        <img aling="center" alt="Juan" height="40" width="50"
+        <img aling="center" alt="Juan Git" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <img aling="center" alt="Juan" height="40" width="50" 
+        <img aling="center" alt="Juan Django" height="40" width="50" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-        <img aling="center" alt="Juan" height="40" width="50"
+        <img aling="center" alt="Juan Linux" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-        <img aling="center" alt="Juan" height="40" width="50"
+        <img aling="center" alt="Juan MySQL" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-        <img aling="center" alt="Juan" height="40" width="50"
+        <img aling="center" alt="Juan Gimp" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
     </div>
 
