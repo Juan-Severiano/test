@@ -6,14 +6,14 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
 <body align="center">
-    <div align="center">
-        <a href="https://github.com/Juan-Severiano">
-            <img height="180em"
-                src="https://github-readme-stats.vercel.app/api?username=Juan-Severiano&show_icons=true&theme=dark&include_all_commits=true&count_private=false" />
-            <img height="180em"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Severiano&layout=compact&langs_count=7&theme=dark" />  
-            <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-    </div>
+ <div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Juan-Severiano&theme=radical&rank_icon=github&show_icons=true" />
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juan-Severiano&layout=compact&langs_count=8&card_width=320&theme=radical" />
+   <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</a>
+</div>
     <div class="ferramentas" align="center"> 
         <br>
         <img aling="center" alt="Juan-HTML" height="40" width="50"
