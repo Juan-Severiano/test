@@ -11,6 +11,15 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Juan-Severiano&theme=radical&rank_icon=github&show_icons=true" />
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juan-Severiano&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <a href="https://github.com/Juan-Severiano/academytaskhub">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Severiano&repo=academytaskhub&theme=radical" />
+  </a>
+  <a href="https://github.com/Juan-Severiano/rick-and-morty">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Severiano&repo=rick-and-morty&theme=radical" />
+  </a>
+  <a href="https://github.com/Juan-Severiano/cursoTypeScript">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Severiano&repo=cursoTypeScript&theme=radical" />
+  </a>
    <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </a>
 </div>
