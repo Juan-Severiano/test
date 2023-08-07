@@ -2,8 +2,6 @@
 
 
 
-
-
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
@@ -17,7 +15,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Severiano&repo=academytaskhub&theme=radical" />
   </a>
   <a href="https://github.com/Juan-Severiano/rick-and-morty">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Severiano&repo=rick-and-morty&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Severiano&repo=academytaskhub-mobile&theme=radical" />
   </a>
   <a href="https://github.com/Juan-Severiano/cursoTypeScript">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Severiano&repo=cursoTypeScript&theme=radical" />
