@@ -14,7 +14,7 @@
   <a href="https://github.com/Juan-Severiano/academytaskhub">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Severiano&repo=academytaskhub&theme=radical" />
   </a>
-  <a href="https://github.com/Juan-Severiano/rick-and-morty">
+  <a href="https://github.com/Juan-Severiano/academytaskhub-mobile">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Severiano&repo=academytaskhub-mobile&theme=radical" />
   </a>
   <a href="https://github.com/Juan-Severiano/cursoTypeScript">
