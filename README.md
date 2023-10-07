@@ -23,22 +23,20 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
         <img aling="center" alt="Juan JavaScript" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img aling="center" alt="Juan React" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
         <img aling="center" alt="Juan Python" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
         <img aling="center" alt="Juan Arduino" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
         <img aling="center" alt="Juan VSCODE" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        <img aling="center" alt="Juan fedora" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
         <img aling="center" alt="Juan github" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
         <img aling="center" alt="Juan Git" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
         <img aling="center" alt="Juan Django" height="40" width="50" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-        <img aling="center" alt="Juan Linux" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
         <img aling="center" alt="Juan MySQL" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
         <img aling="center" alt="Juan Gimp rapaz" height="40" width="50"
