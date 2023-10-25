@@ -10,8 +10,7 @@
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juan-Severiano&layout=compact&langs_count=8&card_width=320&theme=radical&exclude_repo=Curso-JavaScript,curso_bootstrap,starwars-list,pokemon-devemdobro,Landing-Page,gatastrofic,academytaskhub-app,react-native-base-project" />
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Juan-Severiano&theme=radical&mode=weekly" />
-  
-   <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </a>
 </div>
     <div class="ferramentas" align="center"> 
